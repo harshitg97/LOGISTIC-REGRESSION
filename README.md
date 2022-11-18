@@ -1,1 +1,2 @@
-# LOGISTIC-REGRESSION
+# LogisticRegression
+Data Visualization,EDA,Model Building
